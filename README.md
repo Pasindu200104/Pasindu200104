@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pasindu200104
+- 👋 Hi, I’m @Pasindu200104 (Pasindu Dilshan)
 - 👀 I’m interested in web programming & programming languages 
 - 🌱 I’m currently studying Software engineering 
 - 💞️ I’m looking to create web sites for small business's. 
