@@ -37,7 +37,6 @@
 ### 🗄️ Databases & Backend  
 - MySQL  
 - MongoDB  
-- Firebase (basic)  
 
 ### 🎨 Design & UI/UX  
 - Figma  
