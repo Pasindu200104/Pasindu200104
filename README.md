@@ -49,12 +49,4 @@
 - 📧 Email: **bgpda2001@gmail.com**  
 - 💼 GitHub: [github.com/Pasindu200104](https://github.com/Pasindu200104)  
 
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/Pasindu200104/Pasindu200104/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ *Feel free to explore my repositories and connect with me!*  
